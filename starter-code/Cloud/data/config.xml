@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <host></host>
+   <upload_src>/Users/amohan/Desktop/teaching/cloud/data/upload/clock</upload_src>
+   <upload_dest>/home/ubuntu/</upload_dest>
+   <download_src>/home/ubuntu/clock/data/clock.txt</download_src>
+   <download_dest>/Users/amohan/Desktop/teaching/cloud/code/</download_dest>
+   <user>ubuntu</user>
+   <pem>/Users/amohan/Desktop/teaching/cloud/data/amohan_cloud.pem</pem>
+   <port>22</port>
+</config>
